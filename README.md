@@ -70,7 +70,7 @@ According to the definition, the _natural logarithm_ of a random variable from a
 ## Usage
 
 ```javascript
-import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-lognormal-kurtosis@deno/mod.js';
+import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-lognormal-kurtosis@v0.2.1-deno/mod.js';
 ```
 
 #### kurtosis( mu, sigma )
@@ -130,7 +130,7 @@ y = kurtosis( 0.0, -1.0 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-lognormal-kurtosis@deno/mod.js';
+import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-lognormal-kurtosis@v0.2.1-deno/mod.js';
 
 var sigma;
 var mu;
