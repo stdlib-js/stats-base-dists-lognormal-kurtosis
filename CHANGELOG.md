@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-17)
+## Unreleased (2026-01-19)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 3 issues were closed in this release:
 
 <details>
 
+-   [`5ee0c78`](https://github.com/stdlib-js/stdlib/commit/5ee0c781e82099b730ddd0126f888515b817b47c) - **test:** remove duplicate test cases in `stats/base/dists/lognormal` packages _(by Philipp Burckhardt)_
 -   [`2141b2f`](https://github.com/stdlib-js/stdlib/commit/2141b2f3469ee6e013716201f8e39e083d3676d3) - **bench:** update random value generation [(#9780)](https://github.com/stdlib-js/stdlib/pull/9780) _(by Harsh Yadav)_
 -   [`3b39228`](https://github.com/stdlib-js/stdlib/commit/3b39228e76a9586ede35c2c128939f21c6982d09) - **docs:** replace manual `for` loop in examples [(#8263)](https://github.com/stdlib-js/stdlib/pull/8263) _(by Harsh Yadav)_
 -   [`fd24b4a`](https://github.com/stdlib-js/stdlib/commit/fd24b4a9cd4322a1d32b552c92f81f506afda44e) - **chore:** address commit comments [(#8067)](https://github.com/stdlib-js/stdlib/pull/8067) _(by Vara Rahul Rajana)_
