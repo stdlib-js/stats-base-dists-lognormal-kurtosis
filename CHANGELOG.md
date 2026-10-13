@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-15)
+## Unreleased (2026-10-13)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`ff5c948`](https://github.com/stdlib-js/stdlib/commit/ff5c9483ad90abf8b6dea08b49aef1f1e3b9c494) - **test:** migrate `stats/base/dists/lognormal/kurtosis` to ULP-based assertions (#16106) [(#16106)](https://github.com/stdlib-js/stdlib/pull/16106) _(by Philipp Burckhardt, Athan Reines)_
 -   [`af0c6b6`](https://github.com/stdlib-js/stdlib/commit/af0c6b67ada2bab7296e693588b4d7e04c41ae3f) - **docs:** fix C API parameter descriptions [(#14134)](https://github.com/stdlib-js/stdlib/pull/14134) _(by Philipp Burckhardt)_
 -   [`4a0c3be`](https://github.com/stdlib-js/stdlib/commit/4a0c3be4719f713b69a8ff6b66cc3b0573bf4444) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`f25221d`](https://github.com/stdlib-js/stdlib/commit/f25221d5fcb5e84cb0ad4951db6f08f254c12d15) - **docs:** update Markdown equation elements _(by stdlib-bot)_
